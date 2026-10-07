@@ -1,0 +1,21 @@
+# Google OAuth credentials / tokens
+credentials.json
+token.json
+gmail_token.json
+
+# Private email data
+emails_dataset.csv
+
+# Trained model artifacts
+*.pkl
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# IDE / OS
+.vscode/
+.DS_Store
+Thumbs.db
